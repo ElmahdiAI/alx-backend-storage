@@ -30,4 +30,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your functions should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)'
 - Your code should not be executed when imported (by using if __name__ == "__main__":)
 <br>
+
+
 ![NoSQL](https://www.codeitbro.in/wp-content/uploads/2024/08/why-do-nosql-devs-eat-alone.jpg)
